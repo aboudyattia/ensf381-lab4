@@ -1,4 +1,3 @@
-//Create DOM selectors for usergrid container, view toggle button (viewToggleBtn), the delete input (deleteIdInput), the delete button (deleteBtn), the sort by group button (sortByGroupBtn), the sort by ID button (sortByIdBtn)
 const usergridContainer = document.getElementById('userGrid');
 const viewToggleBtn = document.getElementById('viewToggleBtn');
 const deleteInput = document.getElementById('deleteIdInput');
